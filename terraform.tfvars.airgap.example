@@ -3,13 +3,13 @@
 // *******************************************************
 
 // ID identifying the cluster to create. Use your username so that resources created can be tracked back to you.
-cluster_id = "<your cluster id>"
+cluster_id = "2f567bf4-6fe4-4441-9d19-ce6b5c989f46"
 
 // Base domain from which the cluster domain is a subdomain.  This can be any non globally resolved domain like myfakedomain1357.com
-base_domain = "<your base domain>"
+base_domain = "zmodstack.com"
 
 // Name of the VDC.
-vcd_vdc = "<your vdc name>"
+vcd_vdc = "zmodstack-airgap-1"
 
 // User on the vSphere server.
 vcd_user = "<your vcd username>"
