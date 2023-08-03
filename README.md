@@ -193,7 +193,7 @@ You will order a **VMware Shared** instance in IBM Cloud(below).  When you order
 * select the **On-demand** (default) pricing plan, then name your virtual data center
 * pick the resource group.  
 * agree to the terms and click `Create`
-* then in VMware Solutions > Resources, you should see your VMWare Shared being created.  After an hour or less it will be **ready to use**You will need to edit terraform.tfvars as appropriate, setting up all the information necessary to create your cluster. You will need to set the vcd information as well as public ip's, etc. This file will eventually be copied to the newly created Bastion.
+* then in VMware Solutions > Resources, you should see your VMWare Shared being created.  After an hour or less it will be **ready to use**. You will need to edit terraform.tfvars as appropriate, setting up all the information necessary to create your cluster. You will need to set the vcd information as well as public ip's, etc. This file will eventually be copied to the newly created Bastion.
 
 
 #### Initial VCD setup
